@@ -12,6 +12,7 @@ steps:
 * in Visual Studio Code - click on "Open a remote window", select "Open Remote Repository", edit the container definition files in **your** repososity if needed
 * click on "Open a remote window", select "Continue working on" to start everything in a container
 
-click on gif to see full movie
+## Tutorial
+click on the gif to see full movie
 <br>
 [![Demo](https://j.gifs.com/w0k8gg.gif)](https://youtu.be/WZ3tVHhVxDw)
