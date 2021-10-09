@@ -14,4 +14,4 @@ steps:
 
 click on gif to see full movie
 <br>
-[![Demo](https://gifs.com/gif/devcontainer-dotnet-interactive-notebooks-w0k8gg)](https://youtu.be/WZ3tVHhVxDw)
+[![Demo](https://j.gifs.com/w0k8gg.gif)](https://youtu.be/WZ3tVHhVxDw)
