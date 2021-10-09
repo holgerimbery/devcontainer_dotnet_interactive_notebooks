@@ -3,11 +3,15 @@
 
 Please feel free to fork the repository, if you want to start with .net interactive notebooks and you don´t want to mess with your machine.
 all you need is:
-* vscode insider
-* docker desktop
+* visual studio code insider
+* docker desktop (and windows subsystem linux)
 * and the [123Code extension pack](https://marketplace.visualstudio.com/items?itemName=holgerimbery.123code) for visual studio code 
 
 steps:
-* clone this repository or start with a copy of it a new one
-* click on "Open a remote window", select "Open Remote Repository", edit the container definition files if needed
+* clone this repository or start with a copy of it a new repository
+* in Visual Studio Code - click on "Open a remote window", select "Open Remote Repository", edit the container definition files in **your** repososity if needed
 * click on "Open a remote window", select "Continue working on" to start everything in a container
+
+click on gif to see full movie
+<br>
+[![Demo](https://gifs.com/gif/devcontainer-dotnet-interactive-notebooks-w0k8gg)](https://youtu.be/WZ3tVHhVxDw)
