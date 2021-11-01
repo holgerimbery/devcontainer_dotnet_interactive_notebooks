@@ -1,5 +1,5 @@
 # devcontainer experience 
-## for creating .net interative notebooks in a remote development environment
+## for creating .net interactive notebooks in a remote development environment
 
 Please feel free to fork the repository, if you want to start with .net interactive notebooks and you don´t want to mess with your machine.
 all you need is:
